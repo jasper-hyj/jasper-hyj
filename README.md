@@ -1,6 +1,5 @@
 # About Me👻
 - 🏫 Full-time Undergraduate in UC San Diego, major in Computer Engineering💻
-- 
 
 
 ---
