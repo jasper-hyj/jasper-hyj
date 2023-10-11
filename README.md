@@ -1,9 +1,10 @@
 # About Me👻
 - 🏫 Full-time Undergraduate in UC San Diego, major in Computer Engineering💻
+- 
 
 
 ---
-### 🛠️ Languages and Tools :    
+## 🛠️ Languages and Tools :    
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
@@ -19,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="C++" alt="C++" width="40" height="40">
 </div>
 
-### 🔥My Stats
+## 🔥My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasper-hyj&theme=dark&background=000000)](https://git.io/streak-stats)
 
